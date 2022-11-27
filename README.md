@@ -27,5 +27,5 @@ const config = {
 
 ## TODO
 
-[] Can we get resolver from nmf directly?
-[] Add tests
+- [] Can we get resolver from nmf directly?
+- [] Add tests
